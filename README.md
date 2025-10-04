@@ -1,5 +1,7 @@
 # Earthquake-Analysis-and-Design
-
+Horizontal ground motion records for the 1989 Loma Prieta Earthquake measured at different stations 
+are provided. The nomenclature and metadata of these ground motions are appended below. All 
+the ground motions are also provided.
 
 
 | ID  | Record Seq. | EQ             | Year | Station Name         | Mag. | Mechanism      | Rjb (km) | Rrup (km) | Vs30 (m/s) | Horizontal-1 Acc. Filename | Horizontal-2 Acc. Filename |

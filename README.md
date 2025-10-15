@@ -12,3 +12,4 @@ the ground motions are also provided.
 | 4   | 813         | "Loma Prieta"  | 1989 | "Yerba Buena Island" | 6.93 | Reverse Oblique | 75.07    | 75.17     | 659.81     | RSN813_LOMAP_YBI000.AT2    | RSN813_LOMAP_YBI090.AT2    |
 
 Obtain the following:
+(1) For each record ID, compare the acceleration records visually. Tabulate the following parameters in each direction at four stations: (a) Peak Ground Acceleration (PGA) (b) Arias Intensity (AI) (c) Duration (5-95) (d) Earthquake Average Power 

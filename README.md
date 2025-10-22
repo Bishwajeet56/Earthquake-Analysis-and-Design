@@ -13,4 +13,4 @@ the ground motions are also provided.
 
 Obtain the following:
 
-(1) For each record ID, compare the acceleration records visually. Tabulate the following parameters in each direction at four stations: (a) Peak Ground Acceleration (PGA) (b) Arias Intensity (AI) (c) Duration (5-95) (d) Earthquake Average Power 
+(1) For each record ID, compare the acceleration records visually. Tabulate the following parameters in each direction at four stations: (a) Peak Ground Acceleration (PGA) (b) Arias Intensity (AI) (c) Duration (5-95) (d) Earthquake Average Power. 

@@ -4,7 +4,8 @@ import matplotlib.pyplot as plt
 
 # File details
 file_name = 'RSN813_LOMAP_YBI090.AT2'
-file_path = r'D:\\2nd Sem\\ERD\\Assignments\\2'
+#add your file path and uncomment the line below
+#file_path = <file path>
 full_file_path = os.path.join(file_path, file_name)
 
 # Parse the file
